@@ -19,7 +19,7 @@ Website for Robert Bateman High School
   - [ ] Index.html
   - [ ] Style.css
   - [ ] Queries.css
-- [ ] Bateman Press
-  - [ ] Index.html
-  - [ ] Style.css
+- [x] Bateman Press
+  - [x] Index.html
+  - [x] Style.css
   - [ ] Queries.css
