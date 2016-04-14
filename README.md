@@ -13,13 +13,17 @@ Website for Robert Bateman High School
   - [ ] Queries.css
 - [ ] Announcements
   - [x] Index.html
-  - [ ] Style.css
+  - [x] Style.css
   - [ ] Queries.css
 - [ ] Events
   - [ ] Index.html
   - [ ] Style.css
   - [ ] Queries.css
+<<<<<<< HEAD
 - [x] Bateman Press
+=======
+- [ ] Bateman Press
+>>>>>>> origin/master
   - [x] Index.html
   - [x] Style.css
   - [ ] Queries.css
