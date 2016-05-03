@@ -169,7 +169,7 @@ header h1 {
 }
 
 /*--------------------------------*/
-/*NEWS*/
+/*MAIN*/
 /*--------------------------------*/
 
 .events {
@@ -180,3 +180,8 @@ header h1 {
 .events iframe {
 	text-align: center;
 }
+
+.long-copy {
+	text-align: center;
+}
+
