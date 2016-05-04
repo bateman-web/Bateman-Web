@@ -5,42 +5,22 @@
 
 
 /* Small tablet to big tablet: from 768px to 1023px */
-@media only screen and (max-width: 1023px) {
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
 	
-	body {
-		width: 1023px;
-		text-align: center;
-	}
-   
-	.about-row {
-		width: 90%;
-		margin-left: 10%;
-	}
-	
-	i {
-		align-content: center;
-	}
 
+	.add-bottom-margin {
+		margin-bottom: 30px;
+	}
 }
 
 
 
 /* Small phones to small tablets: from 481px to 767px */
-@media only screen and (max-width: 767px) {
+@media only screen and (min-width: 481px) and (max-width: 767px) {
 	
-	body {
-		width: 767px;
+	.add-bottom-margin {
+		margin-bottom: 30px;
 	}
-	
-	header {
-		width: 767px;				
-	}
-	
-	.news .box {
-		margin: 20px 0;
-	}
-	
-	
    
     
 }
@@ -50,12 +30,12 @@
 /* Small phones: from 0 to 480px */
 @media only screen and (max-width: 480px) {
 	
-	body {
-		width: 425px;
+	section {
+		text-align: center;
 	}
-	
-	.row {
-		margin: 20px 0;
+
+	.add-bottom-margin {
+		margin-bottom: 30px;
 	}
 	
 }
