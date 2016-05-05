@@ -173,7 +173,7 @@ header h1 {
 /*NEWS*/
 /*--------------------------------*/
 
-.events {
+.events h3 {
 	text-align: center;
 }
 
@@ -189,16 +189,13 @@ header h1 {
 .numBox {
 	font-size: 250%;
 	color: #8e44ad;
+	text-align: center;
 }
 
 .month {
 	margin-top: 0 auto;
 	padding-top: 0;
 	font-size: 50%;
-}
-
-.eventBox {
-	text-align: left;
 }
 
 .eventBox h4 {
